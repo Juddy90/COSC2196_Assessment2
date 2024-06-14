@@ -34,7 +34,7 @@ https://fathomless-gorge-99950.herokuapp.com/
 
 Download and clone the repository from GitHub using the following command:
 
-git clone https://github.com/pozengineer/cosc2196AssessmentTask2.git
+git clone https://github.com/pozengineer/cosc2196AssessmentTask2.git](https://github.com/Juddy90/COSC2196_Assessment2.git
 
 This application was built using:
 - HTML: HyperText Markup Language that allows the developer to describe pages
