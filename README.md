@@ -2,19 +2,9 @@
 
 Summary
 
-The web application is a website that presents my skills and capabilities.
-
-
-Getting Started
-
-This documentation will assist you in viewing this project. To view the project either open
-the url of the deployed application with the following address in any browser:
+This was a group task for a university assignment at RMIT for introduction to information technology. We were tasked with researching the information technology industry and creating an project idea. We then added all of this into a joint webpage as per the below link.
 
 https://fathomless-gorge-99950.herokuapp.com/
-
-Download and clone the repository from GitHub using the following command:
-
-git clone https://github.com/pozengineer/cosc2196AssessmentTask2.git
 
 This application was built using:
 - HTML: HyperText Markup Language that allows the developer to describe pages
